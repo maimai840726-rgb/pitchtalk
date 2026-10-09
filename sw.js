@@ -1,5 +1,5 @@
 /* PITCH TALK offline helper. The version changes automatically whenever index.html changes. */
-const VERSION = 'pt-be1e558fc7';
+const VERSION = 'pt-61c9b6364c';
 const CORE = ['./', './index.html', './manifest.webmanifest',
   './icons/apple-touch-icon.png', './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-512.png'];
 const FONT_CACHE = 'pt-fonts';
